@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  8 16:15:50 2018
 
-@author: parsa
+@author: PyroX64
 """
 
 from collections import Counter
